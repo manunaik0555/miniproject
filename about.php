@@ -234,7 +234,7 @@
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
-                  <a href="https://github.com/Blparmar007" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://github.com/manumaik0555" target="_blank"><i class="fab fa-github"></i></a>
                   <a href=""><i class="icofont-linkedin" target="_blank"></i></a>
                 </div>
               </div>
