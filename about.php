@@ -198,12 +198,12 @@
               <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Darshan Parmar</h4>
+                  <h4>manu naik</h4>
                 </div>
                 <div class="social">
-                  <a href="https://twitter.com/darshankparmar" target="_blank"><i class="icofont-twitter"></i></a>
-                  <a href="https://github.com/darshankparmar" target="_blank"><i class="fab fa-github"></i></a>
-                  <a href="https://www.linkedin.com/in/darshankparmar/" target="_blank"><i class="icofont-linkedin" target="_blank"></i></a>
+                  <a href="https://twitter.com/manu_naik_05" target="_blank"><i class="icofont-twitter"></i></a>
+                  <a href="https://github.com/manunaik0555" target="_blank"><i class="fab fa-github"></i></a>
+                  <a href="https://www.linkedin.com/in/manu_naik_05/" target="_blank"><i class="icofont-linkedin" target="_blank"></i></a>
                 </div>
               </div>
             </div>
@@ -214,7 +214,7 @@
               <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Harsh Patel</h4>
+                  <h4>amulya s</h4>
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
@@ -230,7 +230,7 @@
               <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="" style="height: 198px;width: 198px;">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Bhavesh Parmar</h4>
+                  <h4>rakshitha</h4>
                 </div>
                 <div class="social">
                   <a href=""><i class="icofont-twitter" target="_blank"></i></a>
